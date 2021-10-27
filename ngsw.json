@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1635300885259,
-  "index": "https://github.com/123Isela/angular-proyecto/index.html",
+  "timestamp": 1635302063032,
+  "index": "https://123Isela.github.io/angular-proyecto/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/123Isela/angular-proyecto/favicon.ico",
-        "https://github.com/123Isela/angular-proyecto/index.html",
-        "https://github.com/123Isela/angular-proyecto/main.0098a17c7d11dc60c3f8.js",
-        "https://github.com/123Isela/angular-proyecto/manifest.webmanifest",
-        "https://github.com/123Isela/angular-proyecto/polyfills.77a1993727a31fa030dd.js",
-        "https://github.com/123Isela/angular-proyecto/runtime.18821b64a88c577ecb6a.js",
-        "https://github.com/123Isela/angular-proyecto/styles.11cf6b3a7e166a1bde8d.css"
+        "https://123Isela.github.io/angular-proyecto/favicon.ico",
+        "https://123Isela.github.io/angular-proyecto/index.html",
+        "https://123Isela.github.io/angular-proyecto/main.0098a17c7d11dc60c3f8.js",
+        "https://123Isela.github.io/angular-proyecto/manifest.webmanifest",
+        "https://123Isela.github.io/angular-proyecto/polyfills.77a1993727a31fa030dd.js",
+        "https://123Isela.github.io/angular-proyecto/runtime.18821b64a88c577ecb6a.js",
+        "https://123Isela.github.io/angular-proyecto/styles.11cf6b3a7e166a1bde8d.css"
       ],
       "patterns": []
     },
@@ -29,39 +29,39 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-128x128.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-144x144.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-152x152.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-192x192.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-284x284.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-384x384.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-512x512.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-72x72.png",
-        "https://github.com/123Isela/angular-proyecto/assets/icons/icon-96x96.png",
-        "https://github.com/123Isela/angular-proyecto/assets/shipping.json"
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-128x128.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-144x144.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-152x152.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-192x192.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-284x284.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-384x384.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-512x512.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-72x72.png",
+        "https://123Isela.github.io/angular-proyecto/assets/icons/icon-96x96.png",
+        "https://123Isela.github.io/angular-proyecto/assets/shipping.json"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-128x128.png": "fa66b7d0b9c28e211a02792ab96aef49e44ea0a1",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-144x144.png": "a7836626892023f1979360e47dfcfe989d00e851",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-152x152.png": "ce6db4fbb1e02003d79c474a6c5ad63f5dcb7995",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-192x192.png": "665867622ccd7105443aa4320c92430080bdcd16",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-284x284.png": "e14daf2dd8aa7ef186807781dd61eb0435b17dc2",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-512x512.png": "315d0e669dc908be144f32a79c7e9262bbcff55e",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-72x72.png": "4f235995869ce9b264430115edb1ea823fbf2b85",
-    "https://github.com/123Isela/angular-proyecto/assets/icons/icon-96x96.png": "5047aa25f80f8db5da2d9838e14a0ee4ceb37a8d",
-    "https://github.com/123Isela/angular-proyecto/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
-    "https://github.com/123Isela/angular-proyecto/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://github.com/123Isela/angular-proyecto/index.html": "3139f18affc0333b4767267bbec8984f72b09ae9",
-    "https://github.com/123Isela/angular-proyecto/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
-    "https://github.com/123Isela/angular-proyecto/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
-    "https://github.com/123Isela/angular-proyecto/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
-    "https://github.com/123Isela/angular-proyecto/runtime.18821b64a88c577ecb6a.js": "7e55b36d225118431e7c39e9bc0c06b3379216b2",
-    "https://github.com/123Isela/angular-proyecto/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-128x128.png": "fa66b7d0b9c28e211a02792ab96aef49e44ea0a1",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-144x144.png": "a7836626892023f1979360e47dfcfe989d00e851",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-152x152.png": "ce6db4fbb1e02003d79c474a6c5ad63f5dcb7995",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-192x192.png": "665867622ccd7105443aa4320c92430080bdcd16",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-284x284.png": "e14daf2dd8aa7ef186807781dd61eb0435b17dc2",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-512x512.png": "315d0e669dc908be144f32a79c7e9262bbcff55e",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-72x72.png": "4f235995869ce9b264430115edb1ea823fbf2b85",
+    "https://123Isela.github.io/angular-proyecto/assets/icons/icon-96x96.png": "5047aa25f80f8db5da2d9838e14a0ee4ceb37a8d",
+    "https://123Isela.github.io/angular-proyecto/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://123Isela.github.io/angular-proyecto/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://123Isela.github.io/angular-proyecto/index.html": "508a8f6923f79b34525add8f96e28a60e817c27c",
+    "https://123Isela.github.io/angular-proyecto/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
+    "https://123Isela.github.io/angular-proyecto/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
+    "https://123Isela.github.io/angular-proyecto/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
+    "https://123Isela.github.io/angular-proyecto/runtime.18821b64a88c577ecb6a.js": "7e55b36d225118431e7c39e9bc0c06b3379216b2",
+    "https://123Isela.github.io/angular-proyecto/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
   },
   "navigationUrls": [
     {
